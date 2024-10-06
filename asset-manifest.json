@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pfrepo2/static/css/main.8458daf0.css",
+    "main.js": "/pfrepo2/static/js/main.5757e531.js",
+    "static/js/453.ad6eb26e.chunk.js": "/pfrepo2/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/pfrepo2/index.html",
+    "main.8458daf0.css.map": "/pfrepo2/static/css/main.8458daf0.css.map",
+    "main.5757e531.js.map": "/pfrepo2/static/js/main.5757e531.js.map",
+    "453.ad6eb26e.chunk.js.map": "/pfrepo2/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8458daf0.css",
+    "static/js/main.5757e531.js"
+  ]
+}
